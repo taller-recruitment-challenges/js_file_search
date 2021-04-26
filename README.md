@@ -1,4 +1,4 @@
-# js_file_search
+# JS File search
 
 Imagine that you have a very long list of file paths (path_list)
 and that it is updated once a day.
